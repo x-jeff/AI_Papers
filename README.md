@@ -4,3 +4,4 @@
 2. 【AlexNet】[原文](https://github.com/x-jeff/AI_Papers/blob/master/ImageNet%20Classification%20with%20Deep%20Convolutional%20Neural%20Networks.pdf)，[博客讲解](http://shichaoxin.com/2021/02/03/论文阅读-ImageNet-Classification-with-Deep-Convolutional-Neural-Networks/)
 3. 【VGG Net】[原文](https://github.com/x-jeff/AI_Papers/blob/master/VERY%20DEEP%20CONVOLUTIONAL%20NETWORKS%20FOR%20LARGE-SCALE%20IMAGE%20RECOGNITION.pdf)，[博客讲解](http://shichaoxin.com/2021/02/24/论文阅读-VERY-DEEP-CONVOLUTIONAL-NETWORKS-FOR-LARGE-SCALE-IMAGE-RECOGNITION/)
 4. 【ZFNet】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Visualizing%20and%20Understanding%20Convolutional%20Networks.pdf)，[博客讲解](http://shichaoxin.com/2021/05/02/论文阅读-Visualizing-and-Understanding-Convolutional-Networks/)
+5. 【GoogLeNet（Inception-v1）】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Going%20deeper%20with%20convolutions.pdf)，[博客讲解](http://shichaoxin.com/2021/06/01/论文阅读-Going-deeper-with-convolutions/)
