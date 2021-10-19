@@ -7,3 +7,4 @@
 5. 【GoogLeNet（Inception-v1）】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Going%20deeper%20with%20convolutions.pdf)，[博客讲解](http://shichaoxin.com/2021/06/01/论文阅读-Going-deeper-with-convolutions/)
 6. 【R-CNN】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Rich%20feature%20hierarchies%20for%20accurate%20object%20detection%20and%20semantic%20segmentation.pdf)，[博客讲解](http://shichaoxin.com/2021/09/20/论文阅读-Rich-feature-hierarchies-for-accurate-object-detection-and-semantic-segmentation/)
 7. 【Selective Search】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Selective%20Search%20for%20Object%20Recognition.pdf)，[博客讲解](http://shichaoxin.com/2021/10/16/论文阅读-Selective-Search-for-Object-Recognition/)
+8. 【Efficient Graph-Based Image Segmentation】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Efficient%20Graph-Based%20Image%20Segmentation.pdf)，[博客讲解](http://shichaoxin.com/2021/10/19/论文阅读-Efficient-Graph-Based-Image-Segmentation/)
