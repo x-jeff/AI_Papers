@@ -9,3 +9,4 @@
 7. 【Selective Search】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Selective%20Search%20for%20Object%20Recognition.pdf)，[博客讲解](http://shichaoxin.com/2021/10/16/论文阅读-Selective-Search-for-Object-Recognition/)
 8. 【Efficient Graph-Based Image Segmentation】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Efficient%20Graph-Based%20Image%20Segmentation.pdf)，[博客讲解](http://shichaoxin.com/2021/10/19/论文阅读-Efficient-Graph-Based-Image-Segmentation/)
 9. 【GAN】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Generative%20Adversarial%20Nets.pdf)，[博客讲解](http://shichaoxin.com/2021/10/30/论文阅读-Generative-Adversarial-Nets/)
+10. 【Batch Normalization】[原文](https://github.com/x-jeff/AI_Papers/blob/master/Batch%20Normalization：Accelerating%20Deep%20Network%20Training%20by%20Reducing%20Internal%20Covariate%20Shift.pdf)，[博客讲解](http://shichaoxin.com/2021/11/02/论文阅读-Batch-Normalization-Accelerating-Deep-Network-Training-by-Reducing-Internal-Covariate-Shift/)
