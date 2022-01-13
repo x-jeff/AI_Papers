@@ -19,3 +19,4 @@
 |15|U-Net: Convolutional Networks for Biomedical Image Segmentation|待补充|待补充|待补充|
 |16|Fully Convolutional Networks for Semantic Segmentation|待补充|待补充|待补充|
 |17|Deep Residual Learning for Image Recognition|ResNet|[链接](https://github.com/x-jeff/AI_Papers/blob/master/Deep%20Residual%20Learning%20for%20Image%20Recognition.pdf)|[链接](http://shichaoxin.com/2022/01/07/论文阅读-Deep-Residual-Learning-for-Image-Recognition/)|
+|18|Inception-v4, Inception-ResNet and the Impact of Residual Connections on Learning|Inception-v4，Inception-ResNet|[链接](https://github.com/x-jeff/AI_Papers/blob/master/Inception-v4%2C%20Inception-ResNet%20and%20the%20Impact%20of%20Residual%20Connections%20on%20Learning.pdf)|[链接](http://shichaoxin.com/2022/01/13/论文阅读-Inception-v4,-Inception-ResNet-and-the-Impact-of-Residual-Connections-on-Learning/)|
