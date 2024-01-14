@@ -54,4 +54,4 @@
 |50|Mask R-CNN|Mask R-CNN|[链接](https://github.com/x-jeff/AI_Papers/blob/master/Mask%20R-CNN.pdf)|[链接](http://shichaoxin.com/2023/12/25/论文阅读-Mask-R-CNN/)|
 |51|Path Aggregation Network for Instance Segmentation|PANet|[链接](https://github.com/x-jeff/AI_Papers/blob/master/Path%20Aggregation%20Network%20for%20Instance%20Segmentation.pdf)|[链接](http://shichaoxin.com/2023/12/28/论文阅读-Path-Aggregation-Network-for-Instance-Segmentation/)|
 |52|YOLOv4：Optimal Speed and Accuracy of Object Detection|YOLOv4|[链接](https://github.com/x-jeff/AI_Papers/blob/master/YOLOv4：Optimal%20Speed%20and%20Accuracy%20of%20Object%20Detection.pdf)|[链接](http://shichaoxin.com/2024/01/04/论文阅读-YOLOv4-Optimal-Speed-and-Accuracy-of-Object-Detection/)|
-|53|YOLOv5|YOLOv5|\\|[链接](http://shichaoxin.com/2024/01/14/YOLO系列-YOLOv5/)|
+|53|YOLOv5|YOLOv5|`\`|[链接](http://shichaoxin.com/2024/01/14/YOLO系列-YOLOv5/)|
