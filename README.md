@@ -57,3 +57,4 @@
 |53|YOLOv5|YOLOv5|`\`|[链接](http://shichaoxin.com/2024/01/14/YOLO系列-YOLOv5/)|
 |54|YOLOX：Exceeding YOLO Series in 2021|YOLOX|[链接](https://github.com/x-jeff/AI_Papers/blob/master/YOLOX：Exceeding%20YOLO%20Series%20in%202021.pdf)|[链接](http://shichaoxin.com/2024/01/19/论文阅读-YOLOX-Exceeding-YOLO-Series-in-2021/)|
 |55|Focal Loss for Dense Object Detection|Focal Loss，RetinaNet|[链接](https://github.com/x-jeff/AI_Papers/blob/master/Focal%20Loss%20for%20Dense%20Object%20Detection.pdf)|[链接](http://shichaoxin.com/2024/02/22/论文阅读-Focal-Loss-for-Dense-Object-Detection/)|
+|56|RTMDet：An Empirical Study of Designing Real-Time Object Detectors|RTMDet|[链接](https://github.com/x-jeff/AI_Papers/blob/master/RTMDet：An%20Empirical%20Study%20of%20Designing%20Real-Time%20Object%20Detectors.pdf)|[链接](http://shichaoxin.com/2024/02/25/论文阅读-RTMDet-An-Empirical-Study-of-Designing-Real-Time-Object-Detectors/)|
